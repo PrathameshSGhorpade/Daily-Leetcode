@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
