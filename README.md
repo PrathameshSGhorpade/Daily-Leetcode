@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0041-first-missing-positive) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
