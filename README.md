@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0283-move-zeroes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0041-first-missing-positive) |
+| [0219-contains-duplicate-ii](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
