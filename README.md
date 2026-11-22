@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0053-maximum-subarray) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/PrathameshSGhorpade/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
